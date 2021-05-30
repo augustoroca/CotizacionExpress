@@ -1,0 +1,11 @@
+C:\Users\rocaau.AR\source\repos\Cotizador\Cotizador\bin\Debug\Cotizador.exe.config
+C:\Users\rocaau.AR\source\repos\Cotizador\Cotizador\bin\Debug\Cotizador.exe
+C:\Users\rocaau.AR\source\repos\Cotizador\Cotizador\bin\Debug\Cotizador.pdb
+C:\Users\rocaau.AR\source\repos\Cotizador\Cotizador\obj\Debug\Cotizador.csprojAssemblyReference.cache
+C:\Users\rocaau.AR\source\repos\Cotizador\Cotizador\obj\Debug\Cotizador.FrmCotizador.resources
+C:\Users\rocaau.AR\source\repos\Cotizador\Cotizador\obj\Debug\Cotizador.Properties.Resources.resources
+C:\Users\rocaau.AR\source\repos\Cotizador\Cotizador\obj\Debug\Cotizador.csproj.GenerateResource.cache
+C:\Users\rocaau.AR\source\repos\Cotizador\Cotizador\obj\Debug\Cotizador.csproj.CoreCompileInputs.cache
+C:\Users\rocaau.AR\source\repos\Cotizador\Cotizador\obj\Debug\Cotizador.exe
+C:\Users\rocaau.AR\source\repos\Cotizador\Cotizador\obj\Debug\Cotizador.pdb
+C:\Users\rocaau.AR\source\repos\Cotizador\Cotizador\obj\Debug\Cotizador.View.FrmHistorial.resources
